@@ -30,4 +30,3 @@ console.log(numb);
 numb = 54;
 console.log(numb)
 
-//Feature Request :
